@@ -1,0 +1,6 @@
+{
+  "uuid": "edge-slide-osd@local",
+  "name": "Edge Slide OSD",
+  "description": "Lets the edge-slide touchpad tool show GNOME's native volume/brightness popup.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"]
+}
